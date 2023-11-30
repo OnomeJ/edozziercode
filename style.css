@@ -1,10 +1,23 @@
-#navbar{
+.navbar{
     background-color: #F7F8FF;
+    
 }
 #start{
     background-color: #0E0A47;
-    tex
+    
 }
 #navbar-brand{
     margin-left: 100px;
+}
+.Edozzier{
+    background-color: #D0D8FC;
+    width: 230px;
+    height: 30px;
+}
+.firstdiv{
+    background-color: #EDEFFF;
+}
+#grapg{
+    /* position: relative; */
+    /* transform: translateX(-100px); */
 }
